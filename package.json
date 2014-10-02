@@ -1,0 +1,12 @@
+{
+  "name": "gulp-hsv2hex",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "object-assign": "^1.0.0",
+    "rework": "1.0.1",
+    "rework-plugin-function": "1.0.1",
+    "through2": "^0.6.1"
+  }
+}
